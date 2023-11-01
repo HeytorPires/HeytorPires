@@ -16,7 +16,7 @@
 <img align="center" alts="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <div/> 
 <br>
-Entusiasta apaixando por Projetos Comunitários.
+Entusiasta apaixonado por Projetos Públicos.
 
 Entre em Contato!! 👇
 
