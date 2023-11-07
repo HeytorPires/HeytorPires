@@ -25,7 +25,7 @@
 
 <br>
 
-Atualmente estou em treinamento Empresárial, proxima atualização irei estar com conhecimento em Node e React, é apenas o começo.
+
 ## Oportunidades de Experiencia
 Entusiasta apaixando por Projetos Comunitários.
 
