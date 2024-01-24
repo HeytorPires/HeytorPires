@@ -3,7 +3,7 @@
 ## Olá! Heytor Aqui 👋.
 
 
- Tenho 18 anos, sou Paranaense, estudante do primeiro ano na graduação de Engenharia de Software.
+ Tenho 18 anos, sou Paranaense, estudante do segundo ano na graduação de Engenharia de Software.
  Atualmente Trainee Front-End em uma empresa de Sistema ERP.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pires.c28/)
