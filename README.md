@@ -4,7 +4,7 @@
 
 
  Tenho 18 anos, sou Paranaense, estudante do segundo ano na graduação de Engenharia de Software.
- Atualmente Trainee Front-End em uma empresa de Sistema ERP.
+ Atualmente Trainee Full-Stack em uma empresa de Sistema ERP.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pires.c28/)
 [![Heytor](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.instagram.com/pires.c28/)
