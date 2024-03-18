@@ -6,9 +6,9 @@
  Tenho 18 anos, sou Paranaense, estudante do segundo ano na graduação de Engenharia de Software.
  Atualmente Trainee Full-Stack em uma empresa de Sistema ERP.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pires.c28/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hey_piires/)
 [![Heytor](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.instagram.com/pires.c28/)
-[![Heytor](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heytor-pires-94a921269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Heytor](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HeytorPires/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ## Tecnologias que eu uso no meu dia a dia.
@@ -21,7 +21,7 @@
 <br>
 <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeytorPires&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeytorPires&layout=donut)](https://github.com/HeytorPires/github-readme-stats)
 
 <br>
 
