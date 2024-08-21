@@ -28,8 +28,8 @@
 ## Tecnologias em Aprendizado.
 <img align="center" alts="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alts="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-
-
+<img align="center" alts="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alts="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <br>
 
 
@@ -41,4 +41,5 @@ Totalmente disposto a ajuda e contribuir com projetos comunitários, independent
 
 Entre em Contato!! 👇
 
-[![Heytor](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1698812386)
+
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://my-url.online/p/Pires)
