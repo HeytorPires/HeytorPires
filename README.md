@@ -3,8 +3,9 @@
 ## Olá! Heytor Aqui 👋.
 
 
- Tenho 18 anos, sou Paranaense, estudante no segundo ano na graduação de Engenharia de Software.
- Atualmente Trainee Desenvolvedor Web em uma empresa de Sistema ERP.
+ Tenho 19 anos, sou Paranaense, estudante de Engenharia de Software no segundo ano da graduação.
+ 
+ Atualmente Trainee em Desenvolvimento Web em uma empresa de Sistema ERP.
 
 [![Heytor](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HeytorPires/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
@@ -17,6 +18,7 @@
 <img align="center" alts="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alts="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alts="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alts="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 
  
 <br>
@@ -28,11 +30,13 @@
 <img align="center" alts="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alts="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alts="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alts="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
 <br>
 
 
 ## Oportunidades de Experiencia
-Entusiasta apaixando por Projetos Comunitários.
+Entusiasta apaixonado por projetos comunitários e inovadores.
 
 Totalmente disposto a ajuda e contribuir com projetos comunitários, independente da vertente ou linguagem, para este usuário a oportunidade é a chave para quebrar o limite do conhecimento com a prazerosa remuneração chamada "expêriencia".
 
