@@ -3,14 +3,14 @@
 ## Olá! Heytor Aqui 👋.
 
 
- Tenho 19 anos, sou Paranaense, estudante de Engenharia de Software no segundo ano da graduação.
+ Tenho 19 anos, sou Paranaense, estudante de Engenharia de Software no terceiro ano da graduação.
  
- Atualmente Trainee em Desenvolvimento Web em uma empresa de Sistema ERP.
+ Atualmente atuo como analista de suporte técnico HCM em uma empresa especializada em sistemas de soluções empresariais.
 
 [![Heytor](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HeytorPires/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-## Tecnologias que eu uso no meu dia a dia.
+## Principais habilidades.
 <div style ="display: inline-block"><br/>
 <img align="center" alts="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alts="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
