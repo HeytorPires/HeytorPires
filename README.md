@@ -5,7 +5,7 @@
 
  Tenho 19 anos, sou Paranaense, estudante de Engenharia de Software no terceiro ano da graduação.
  
- Atualmente atuo como analista de suporte técnico HCM em uma empresa especializada em sistemas de soluções empresariais.
+ Atualmente atuo como consultor de sistemas em uma empresa especializada em sistemas de soluções empresariais.
 
 [![Heytor](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HeytorPires/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
@@ -48,4 +48,4 @@ Totalmente disposto a ajuda e contribuir com projetos comunitários, independent
 Entre em Contato!! 👇
 
 
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://my-url.online/p/Pires)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/HeytorPires)
