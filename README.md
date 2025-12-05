@@ -3,7 +3,7 @@
 ## Olá! Heytor Aqui 👋.
 
 
- Tenho 20 anos, sou Paranaense, estudante de Engenharia de Software no terceiro ano da graduação.
+ Tenho 20 anos, sou Paranaense, estudante de Engenharia de Software no 4º ano da graduação.
  
  Atualmente atuo como consultor de sistemas em uma empresa especializada em sistemas de soluções empresariais.
 
